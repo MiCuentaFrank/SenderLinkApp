@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.curso_android.sendelink" />
+                  <option name="mobileSdkAppId" value="1:489993253386:android:dda878473d4d9ed277a5f3" />
+                  <option name="projectId" value="senderlink-7288d" />
+                  <option name="projectNumber" value="489993253386" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

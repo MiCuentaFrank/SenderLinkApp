@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489993253386",
+    "project_id": "senderlink-7288d",
+    "storage_bucket": "senderlink-7288d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489993253386:android:dda878473d4d9ed277a5f3",
+        "android_client_info": {
+          "package_name": "com.curso_android.sendelink"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzaxyM3kA0j3WvViDUm1espWsgz-2Lk9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
